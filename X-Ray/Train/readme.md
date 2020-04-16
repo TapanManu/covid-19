@@ -1,1 +1,0 @@
-Training X-Ray Images
