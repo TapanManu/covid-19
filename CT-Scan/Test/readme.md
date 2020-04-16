@@ -1,6 +1,6 @@
 # Test Data
 
-** Train Labels **
+**Test Labels **
 
 This Folder consist of test data seperated into covid and non-covid files.
 
